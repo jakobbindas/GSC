@@ -3,7 +3,7 @@ This repository serves as a more up-to-date version of Scrappy's practice tool, 
 
 Project BO4 and Practice tool installation instructions found on Scrappy's github page found below.
 
-Link to Project BO4: https://github.com/Joshr520/BO4-Practice
+Link to Practice Tool: https://github.com/Joshr520/BO4-Practice
 
 ## Getting Started
 
